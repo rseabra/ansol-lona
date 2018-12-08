@@ -40,9 +40,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.44602198"
-     inkscape:cx="6811.9904"
-     inkscape:cy="342.86779"
+     inkscape:zoom="0.31538517"
+     inkscape:cx="6588.9732"
+     inkscape:cy="290.18327"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -124,12 +124,11 @@
        rx="8650.4111"
        ry="1.3572069" />
     <g
-       id="g969"
-       transform="matrix(0.53960346,0,0,0.53960346,194.88705,199.77793)">
+       id="g862">
       <g
-         id="g959">
+         id="g852">
         <g
-           transform="matrix(5.5345766,0,0,-5.5345766,517.93701,29.016807)"
+           transform="matrix(2.9864767,0,0,-2.9864767,474.36765,215.4355)"
            inkscape:label="ink_ext_XXXXXX"
            id="g1212"
            style="filter:url(#filter1225)">
@@ -145,25 +144,25 @@
         </g>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:84.21931458px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#44ffff;fill-opacity:1;stroke:none;stroke-width:1.57911205"
-           x="1990.7227"
-           y="29.094538"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.44503403px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#458fe7;fill-opacity:1;stroke:none;stroke-width:0.85209435;"
+           x="1269.0879"
+           y="215.47745"
            id="text871"><tspan
              sodipodi:role="line"
              id="tspan869"
-             x="1990.7227"
-             y="29.094538"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:232.99868774px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#44ffff;fill-opacity:1;stroke-width:1.57911205">.org</tspan></text>
+             x="1269.0879"
+             y="215.47745"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125.72689819px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#458fe7;fill-opacity:1;stroke-width:0.85209435;">.org</tspan></text>
       </g>
       <text
          id="text1919"
-         y="126.07697"
-         x="1470.1649"
-         style="font-style:normal;font-weight:normal;font-size:74.70909119px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.86772728"
+         y="267.80951"
+         x="988.19312"
+         style="font-style:normal;font-weight:normal;font-size:40.31328583px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00783205"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:99.61212921px;font-family:Dosis;-inkscape-font-specification:'Dosis, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:1.86772728"
-           y="126.07697"
-           x="1470.1649"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.75104904px;font-family:Dosis;-inkscape-font-specification:'Dosis, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:1.00783205"
+           y="267.80951"
+           x="988.19312"
            id="tspan1917"
            sodipodi:role="line">Associação Nacional para o Software Livre</tspan></text>
     </g>
